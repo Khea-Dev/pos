@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\extensions\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:extensions\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\mappings\\itemmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:mappings\\itemmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\mappings\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:mappings\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\mappings\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:mappings\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\extensions\\mapsterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:extensions\\mapsterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\extensions\\itemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:extensions\\itemextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|c:\\users\\rog\\documents\\cshap\\nexus-pos\\backend\\middlewares\\suspendcheckmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334C8287-7F34-4A9F-9650-6FBBCA3B1D39}|Backend.csproj|solutionrelative:middlewares\\suspendcheckmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T13:05:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:54:13.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\AppUserMapping.cs",
+              "RelativeDocumentMoniker": "Mappings\\AppUserMapping.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\AppUserMapping.cs",
+              "RelativeToolTip": "Mappings\\AppUserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T12:51:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Extensions\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\DbInitializer.cs",
+              "RelativeToolTip": "Extensions\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T12:51:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T13:08:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\CustomerMapping.cs",
+              "RelativeDocumentMoniker": "Mappings\\CustomerMapping.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\CustomerMapping.cs",
+              "RelativeToolTip": "Mappings\\CustomerMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:49:51.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemMapping.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\ItemMapping.cs",
+              "RelativeDocumentMoniker": "Mappings\\ItemMapping.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Mappings\\ItemMapping.cs",
+              "RelativeToolTip": "Mappings\\ItemMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapsterExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\MapsterExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\MapsterExtensions.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\MapsterExtensions.cs",
+              "RelativeToolTip": "Extensions\\MapsterExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\ItemExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ItemExtensions.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Extensions\\ItemExtensions.cs",
+              "RelativeToolTip": "Extensions\\ItemExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:51.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuspendCheckMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Middlewares\\SuspendCheckMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\SuspendCheckMiddleware.cs",
+              "ToolTip": "C:\\Users\\ROG\\Documents\\Cshap\\nexus-pos\\Backend\\Middlewares\\SuspendCheckMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\SuspendCheckMiddleware.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:21.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
